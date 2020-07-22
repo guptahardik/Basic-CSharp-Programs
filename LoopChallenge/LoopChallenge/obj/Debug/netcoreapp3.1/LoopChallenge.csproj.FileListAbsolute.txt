@@ -1,0 +1,12 @@
+/Users/harry/Projects/LoopChallenge/LoopChallenge/bin/Debug/netcoreapp3.1/LoopChallenge.deps.json
+/Users/harry/Projects/LoopChallenge/LoopChallenge/bin/Debug/netcoreapp3.1/LoopChallenge.runtimeconfig.json
+/Users/harry/Projects/LoopChallenge/LoopChallenge/bin/Debug/netcoreapp3.1/LoopChallenge.runtimeconfig.dev.json
+/Users/harry/Projects/LoopChallenge/LoopChallenge/bin/Debug/netcoreapp3.1/LoopChallenge.dll
+/Users/harry/Projects/LoopChallenge/LoopChallenge/bin/Debug/netcoreapp3.1/LoopChallenge.pdb
+/Users/harry/Projects/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp3.1/LoopChallenge.csprojAssemblyReference.cache
+/Users/harry/Projects/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp3.1/LoopChallenge.csproj.CoreCompileInputs.cache
+/Users/harry/Projects/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp3.1/LoopChallenge.AssemblyInfoInputs.cache
+/Users/harry/Projects/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp3.1/LoopChallenge.AssemblyInfo.cs
+/Users/harry/Projects/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp3.1/LoopChallenge.dll
+/Users/harry/Projects/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp3.1/LoopChallenge.pdb
+/Users/harry/Projects/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp3.1/LoopChallenge.genruntimeconfig.cache
