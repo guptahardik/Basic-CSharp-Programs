@@ -1,0 +1,12 @@
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/bin/Release/netcoreapp3.1/SampleSurveyConsoleApp.deps.json
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/bin/Release/netcoreapp3.1/SampleSurveyConsoleApp.runtimeconfig.json
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/bin/Release/netcoreapp3.1/SampleSurveyConsoleApp.runtimeconfig.dev.json
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/bin/Release/netcoreapp3.1/SampleSurveyConsoleApp.dll
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/bin/Release/netcoreapp3.1/SampleSurveyConsoleApp.pdb
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/obj/Release/netcoreapp3.1/SampleSurveyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/obj/Release/netcoreapp3.1/SampleSurveyConsoleApp.AssemblyInfoInputs.cache
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/obj/Release/netcoreapp3.1/SampleSurveyConsoleApp.AssemblyInfo.cs
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/obj/Release/netcoreapp3.1/SampleSurveyConsoleApp.dll
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/obj/Release/netcoreapp3.1/SampleSurveyConsoleApp.pdb
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/obj/Release/netcoreapp3.1/SampleSurveyConsoleApp.genruntimeconfig.cache
+/Users/harry/Projects/SampleSurveyConsoleApp/SampleSurveyConsoleApp/obj/Release/netcoreapp3.1/SampleSurveyConsoleApp.csprojAssemblyReference.cache
